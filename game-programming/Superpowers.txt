@@ -1,0 +1,7 @@
+Dear Princess Celestia,
+
+Today I learned about a collaborative game development engine called Superpoweres. It can be found on github at https://github.com/superpowers/superpowers. It allows you to do neat things like making 2D sidescrollers easily. I've decided to use it to write a game called Foxy Pounce for the Secret Foxy Society.
+
+Yours,
+
+Setupminimal
